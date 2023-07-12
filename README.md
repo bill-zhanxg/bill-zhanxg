@@ -56,8 +56,8 @@ usually just call me **Bill**.
 
 ### 📊 Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bill-zhanxg&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/bill-zhanxg)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bill-zhanxg&show_icons=true#gh-light-mode-only)](https://github.com/bill-zhanxg)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bill-zhanxg&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/bill-zhanxg#gh-dark-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bill-zhanxg&show_icons=true#gh-light-mode-only)](https://github.com/bill-zhanxg#gh-light-mode-only)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bill-zhanxg&layout=compact&theme=tokyonight#gh-dark-mode-only)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bill-zhanxg&layout=compact#gh-light-mode-only)
