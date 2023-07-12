@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Bill.IHCha
 
-![Discord](https://img.shields.io/discord/768368356436475905?logo=discord&link=https%3A%2F%2Fbill-zhanxg.com%2Fdiscord)
+[![Discord](https://img.shields.io/discord/768368356436475905?logo=discord)](https://bill-zhanxg.com/discord)
 
 Full stack developer, Discord bot developer, App developer, Minecraft Plugin & Mod developer, Game developer,
 Server developer. I am known online as **Bill.IHCha**, **Bill.zhanxg**, **Bill-zhanxg**. People
