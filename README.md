@@ -15,7 +15,10 @@ usually just call me **Bill**.
 
 - 🌐 I'm currently live in Australia
 - 💻 I'm a student that like to code
-- <img src="microsoft.svg" width="15"> Love the new Microsoft design (WinUI 3 / Fluent Design)
+- <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="microsoft-dark.svg">
+    <img alt="Microsoft Icon" src="microsoft-light.svg" width="15">
+  </picture> Love the new Microsoft design (WinUI 3 / Fluent Design)
 - 🎨 I can code stuffs, fine at designing :)
 - 📘 Good at math :D
 
