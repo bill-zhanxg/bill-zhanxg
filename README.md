@@ -6,8 +6,8 @@ usually just call me **Bill**.
 
 ## Check at my website [here](https://bill-zhanxg.com)
 
-[![Homepage Source](https://github-readme-stats.vercel.app/api/pin/?username=bill-zhanxg&repo=homepage&theme=tokyonight#gh-dark-mode-only)](https://github.com/bill-zhanxg/homepage)
-[![Homepage Source](https://github-readme-stats.vercel.app/api/pin/?username=bill-zhanxg&repo=homepage#gh-light-mode-only)](https://github.com/bill-zhanxg/homepage)
+[![Homepage Source](https://github-readme-stats.vercel.app/api/pin/?username=bill-zhanxg&repo=homepage&theme=tokyonight#gh-dark-mode-only)](https://github.com/bill-zhanxg/homepage#gh-dark-mode-only)
+[![Homepage Source](https://github-readme-stats.vercel.app/api/pin/?username=bill-zhanxg&repo=homepage#gh-light-mode-only)](https://github.com/bill-zhanxg/homepage#gh-light-mode-only)
 
 ### 💫 About Me
 
