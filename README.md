@@ -61,3 +61,8 @@ usually just call me **Bill**.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bill-zhanxg&layout=compact&theme=tokyonight#gh-dark-mode-only)](/#gh-dark-mode-only)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bill-zhanxg&layout=compact#gh-light-mode-only)](/#gh-light-mode-only)
+
+### Discord
+
+[<iframe src="https://discord.com/widget?id=768368356436475905&theme=dark" width="467" height="300" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>](https://discord.com/invite/Xx8EaRzC33#gh-dark-mode-only)
+[<iframe src="https://discord.com/widget?id=768368356436475905&theme=light" width="467" height="300" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>](https://discord.com/invite/Xx8EaRzC33#gh-light-mode-only)
