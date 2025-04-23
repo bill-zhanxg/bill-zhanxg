@@ -52,11 +52,10 @@ usually just call me **Bill**.
 
 ### 🏆 Skills
 
-- 🎹 Piano Grade 8
+- 🎹 Piano Grade Dipoma
 - 🗄️ IT, Server Management
 - 📐 Problem Solver
 - 🎨 Learning designing / Colors
-- 🅰 Can't English well
 - 📘 Nerd
 
 ### 📊 Stats
